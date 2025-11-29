@@ -31,4 +31,4 @@ py Import.py "D:\ATRAG\Felicitari\2025-2026 Zile de naștere.xlsx" Decembrie 202
 
 ## Note
 - Asigurați-vă că fișierul Excel are foile denumite corect (de exemplu: Ianuarie, Februarie, etc.).
-- Asigurativa ca aveti instalate extensiile specificate in fisierul requirements.txt
+- Asigurativa ca aveti instalate extensiile specificate in fisierul 'requirements.txt'
