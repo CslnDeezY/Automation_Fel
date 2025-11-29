@@ -26,8 +26,9 @@
 
 ## Exemplu de rulare:
 ```bash
-py Import.py "D:\ATGAR\Fel\2025-2026 Zile de naștere.xlsx" Decembrie 2025 "D:\ATGAR\Fel\.done"
+py Import.py "D:\ATRAG\Felicitari\2025-2026 Zile de naștere.xlsx" Decembrie 2025 "D:\ATRAG\Felicitari\.done"
 ```
 
 ## Note
 - Asigurați-vă că fișierul Excel are foile denumite corect (de exemplu: Ianuarie, Februarie, etc.).
+- Asigurativa ca aveti instalate extensiile specificate in fisierul requirements.txt
